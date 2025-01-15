@@ -1,2 +1,4 @@
-# 27-02-2025
-Reposítorio do Dia do Pinto: preparações e ganhadores.
+# Participantes
+tensuui: 796903577532366878
+pavelixo: 544844744111554561
+eaebecky: 524910692646780948
