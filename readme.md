@@ -7,12 +7,13 @@
   <summary>
     <h4>Participantes:</h4>
   </summary>
-
-- **tensuui** `796903577532366878`
-- **pavelixo** `544844744111554561`
-- **eaebecky** `524910692646780948`
-
+  <ul>
+    <li><strong>tensuui</strong> <code>796903577532366878</code></li>
+    <li><strong>pavelixo</strong> <code>544844744111554561</code></li>
+    <li><strong>eaebecky</strong> <code>524910692646780948</code></li>
+  </ul>
 </details>
+
 <!--- Participantes --->
 
 <!--- Requisitos --->
@@ -20,16 +21,16 @@
   <summary>
     <h4>Requisitos para Participação:</h4>
   </summary>
-
-1. Ter no mínimo 14 anos de idade no dia da competição.
-2. Ter um pinto.
-3. Tirar duas fotos (uma no momento da inscrição e outra no dia da competição).
-4. Pica mole é sacanagem, não estamos de brincadeira (NÃO MANDE SUA PICA SE ELA ESTIVER MOLE!!!!!!!!!).
-5. Só será permitido a participação de familiares caso eles entrem no server (@desirezx).
-6. Não ter doença peniana (é muito feio).
-7. Lavar o pau antes de mandar (quem tiver esmegma será desclassificado).
-8. Quem não participar será banido pelo resto da vida.
-
+  <ol>
+    <li>Ter no mínimo 14 anos de idade no dia da competição.</li>
+    <li>Ter um pinto.</li>
+    <li>Tirar duas fotos (uma no momento da inscrição e outra no dia da competição).</li>
+    <li>Pica mole é sacanagem, não estamos de brincadeira (NÃO MANDE SUA PICA SE ELA ESTIVER MOLE!!!!!!!!!).</li>
+    <li>Só será permitido a participação de familiares caso eles entrem no server (@desirezx).</li>
+    <li>Não ter doença peniana (é muito feio).</li>
+    <li>Lavar o pau antes de mandar (quem tiver esmegma será desclassificado).</li>
+    <li>Quem não participar será banido pelo resto da vida.</li>
+  </ol>
 </details>
 <!--- Requisitos --->
 
@@ -38,12 +39,12 @@
   <summary>
     <h4>Patrocinadores:</h4>
   </summary>
-
-- KIBOM
-- FIFA
-- NOEL GUINCHOS
-- PLAYSTATION MARINGÁ
-- BAKUGO COMMUNITY
-
+  <ul>
+    <li>KIBOM</li>
+    <li>FIFA</li>
+    <li>NOEL GUINCHOS</li>
+    <li>PLAYSTATION MARINGÁ</li>
+    <li>BAKUGO COMMUNITY</li>
+  </ul>
 </details>
 <!--- Patrocinadores --->
