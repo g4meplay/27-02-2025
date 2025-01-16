@@ -11,7 +11,7 @@
 
 <!--- Requisitos --->
 ### Requisitos para Participação
-1. Ter no mínimo 14 anos de idade no dia da competição.
+1. Ter no mínimo 16 anos de idade no dia da competição.
 2. Ter um pinto.
 3. Tirar duas fotos (uma no momento da inscrição e outra no dia da competição).
 4. Pica mole é sacanagem, não estamos de brincadeira (NÃO MANDE SUA PICA SE ELA ESTIVER MOLE!!!!!!!!!).
