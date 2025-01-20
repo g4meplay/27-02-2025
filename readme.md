@@ -6,6 +6,7 @@
 ### Participantes
 - **tensuui**: `796903577532366878`
 - **eaebecky**: `524910692646780948`
+- **lpzzitow**: `924011137022955530`
 
 <!--- /Participantes --->
 
