@@ -1,8 +1,8 @@
 ### No dia 27/02/2025, faremos uma competição/análise de pica. Quem tiver a melhor pica ganhará um cargo acima de todo mundo, Discord Nitro, uma foto da bunda da Liz, um jogo na Steam (até R$ 2,00) e um salve do Cleitin apelador.
 
 <sub>Quem tiver a menor pica será zoado pelo resto da eternidade, mesmo reencarnando vamos zoar você.</sub>
-<!--- Participantes --->
 
+<!--- Participantes --->
 ### Participantes
 - **tensuui**: `796903577532366878`
 - **eaebecky**: `524910692646780948`
